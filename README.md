@@ -3,3 +3,5 @@
 ![baidu](https://github.com/shenbuqingyun/Xnview/blob/master/Gif/GIF1.gif)
 ## 算法额外加入图层实现：
 ![baidu](https://github.com/shenbuqingyun/Xnview/blob/master/Gif/GIF222.gif)
+## apk下载：
+![baidu](https://github.com/shenbuqingyun/Xnview/blob/master/Gif/1566555933.png)
