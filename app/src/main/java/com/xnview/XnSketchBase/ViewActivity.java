@@ -329,7 +329,7 @@ public class ViewActivity extends AppCompatActivity {
 
     private void doItemClick2(int position) {
         switch (position) {
-            /*盖一层*/
+            /*加入覆蓋圖*/
             case 0:
                 XnSketchActivity.invokeEffect(paramBitmap11, paramBitmap2, 3, 25, 0, 100 - 48, 0, 0, 0, 0, 0);
                 if (paramBitmap11 != null) {
